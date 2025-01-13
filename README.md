@@ -1,7 +1,8 @@
 # fashion_bot
 Overview:
 A Flask-based AI chatbot that acts as a Virtual Fashion Designer, built with LangChain 🧠, OpenAI GPT-4o-mini 🤖, MongoDB 🗄️, and Tailwind CSS 🎨. The chatbot can read fashion data from XLS files 📊 (e.g., style guides, trend analysis), remember user preferences 🛍️, and provide personalized outfit ideas 👗, color combinations 🎨, and shopping tips 🛒 based on the latest fashion trends. ✨
-#Installation & Setup
+
+Installation & Setup:
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/fashion-designer-chatbot.git  
 cd fashion-designer-chatbot  
